@@ -299,6 +299,7 @@ h1, h2, h3 {
 	text-align: center;
 }
 
+.slide.with-bg header,
 .slide.invert header.with-bg, 
 .slide.shout header.with-bg,
 .slide.shout-louder header.with-bg {
